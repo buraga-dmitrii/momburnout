@@ -1,4 +1,6 @@
 .center {
-    padding: 70px 0;
     text-align: center;
   }
+.main_image {
+    width: 400px;
+}
